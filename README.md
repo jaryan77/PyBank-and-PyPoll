@@ -3,7 +3,7 @@
 
 ## PyBank Summary (first challenge)
 
-In this project, I was tasked with creating a Python script for analyzing the financial records of a fictitious company. I was given a set of financial data stored in `budget_data.csv`. The dataset is composed of two columns: `Date` and `Profit/Losses`. 
+In this project, I was tasked with creating a Python script for analyzing the financial records of a fictitious company. I was given a set of financial data stored in [budget_data.csv](https://github.com/jaryan77/PyBank-and-PyPoll-Project/blob/main/PyBank/Resources/budget_data.csv). The dataset is composed of two columns: `Date` and `Profit/Losses`. 
 
 The Python script is to include the following:
 
@@ -22,7 +22,7 @@ The Python script is to include the following:
 
 * In this project, I was tasked with helping a fictitious, rural town in modernizing its vote counting process
 
-* I was given a set of polling data called `election_data.csv`. The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`. My task was to create a Python script that analyzes and calculates each of the following:
+* I was given a set of polling data called [election_data.csv](https://github.com/jaryan77/PyBank-and-PyPoll-Project/blob/main/PyPoll/Resources/election_data.csv). The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`. My task was to create a Python script that analyzes and calculates each of the following:
     
     * The total number of votes cast
 
