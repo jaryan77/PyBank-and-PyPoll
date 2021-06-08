@@ -1,9 +1,9 @@
-# Python Challenge (2 Challenges in 1)
+# PyBank and PyPoll Projects
 
 
 ## PyBank Summary (first challenge)
 
-In this challenge, I was tasked with creating a Python script for analyzing the financial records of a fictitious company. I was given a set of financial data stored in `budget_data.csv`. The dataset is composed of two columns: `Date` and `Profit/Losses`. 
+In this project, I was tasked with creating a Python script for analyzing the financial records of a fictitious company. I was given a set of financial data stored in `budget_data.csv`. The dataset is composed of two columns: `Date` and `Profit/Losses`. 
 
 The Python script is to include the following:
 
@@ -20,7 +20,7 @@ The Python script is to include the following:
 #
 ## PyPoll Summary (second challenge)
 
-* In this challenge, I was tasked with helping a fictitious, rural town in modernizing its vote counting process
+* In this project, I was tasked with helping a fictitious, rural town in modernizing its vote counting process
 
 * I was given a set of polling data called `election_data.csv`. The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`. My task was to create a Python script that analyzes and calculates each of the following:
     
