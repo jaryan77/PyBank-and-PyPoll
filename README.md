@@ -17,6 +17,8 @@ The Python script is to include the following:
 
 * The greatest decrease in losses (date and amount) over the entire period
 
+![pybank_output](Images/pybank_output.PNG)
+
 #
 ## PyPoll Summary (second challenge)
 
@@ -33,6 +35,8 @@ The Python script is to include the following:
     * The total number of votes each candidate won
 
     * The winner of the election based on popular vote.
+
+![pypoll_output](Images/pypoll_output.PNG)
 
 # 
 ## Running the Code
